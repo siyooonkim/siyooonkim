@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=red&height=200&section=header&text=HELLO I'm Jayce%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=red&height=200&section=header&text=JayceKim%20render&fontSize=90)
 
 ### Hi there 👋
 

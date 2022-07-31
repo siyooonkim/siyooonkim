@@ -1,4 +1,5 @@
 ## Hi 👋 I'm Jayce.
+An engineer who continues to not only grow through problem-solving and challenging, but also enjoys the process of growth. 
 
 ### 📨 How to reach me <br/>
 ksyoon0718@gmail.com

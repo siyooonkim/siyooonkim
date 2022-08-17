@@ -11,6 +11,7 @@ ksyoon0718@gmail.com
 <img alt="React" src="https://img.shields.io/badge/React-blue" /> 
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue" /> 
 <img alt="ReduxSaga" src="https://img.shields.io/badge/ReduxSaga-blue" /> 
+<img alt="ReactQuery" src="https://img.shields.io/badge/ReactQuery-blue" /> 
 </p>
 <p>
 <img alt="Knowledgeable" src="https://img.shields.io/badge/Knowledgeable-yellow" /> _

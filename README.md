@@ -1,4 +1,4 @@
-## Hi 👋 I'm Jayce.
+## Hi 👋 I'm siyoon.
 An engineer who continues to not only grow through problem-solving and challenging, but also enjoys the process of growth. 
 
 ### 📨 How to reach me <br/>

@@ -26,31 +26,5 @@ Passionate software engineer specializing in web/application development, I exce
 
 
 
-<details>
-<summary>About Me</summary>
-
-</summary>
-
-
-
-### 💻 Tech Stack  <br/>
-<p>
-<img alt="Advanced" src="https://img.shields.io/badge/Advanced-blue?" /> _
-<img alt="ReactNative" src="https://img.shields.io/badge/ReactNative-blue" /> 
-<img alt="React" src="https://img.shields.io/badge/React-blue" /> 
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-blue" /> 
-<img alt="ReduxSaga" src="https://img.shields.io/badge/ReduxSaga-blue" /> 
-<img alt="ReactQuery" src="https://img.shields.io/badge/ReactQuery-blue" /> 
-</p>
-<p>
-<img alt="Knowledgeable" src="https://img.shields.io/badge/Knowledgeable-yellow" /> _
-<img alt="React" src="https://img.shields.io/badge/NextJS-yellow" /> 
-<img alt="React" src="https://img.shields.io/badge/Express-yellow" /> 
-<img alt="React" src="https://img.shields.io/badge/JWT-yellow" /> 
-<img alt="React" src="https://img.shields.io/badge/MySQL-yellow" /> 
-<img alt="React" src="https://img.shields.io/badge/S3-yellow" /> 
-<img alt="React" src="https://img.shields.io/badge/EC2-yellow" /> 
-</p>
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>

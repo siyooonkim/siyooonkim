@@ -1,14 +1,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+<div align="center">
+  <h2>Hi, I'm Si-yoon Kim 👋</h2>
+  <p><b>Software Engineer & Deep Learning Researcher</b></p>
+  
+  <p>
+    I build scalable <b>E-commerce & O2O services</b> across Backend, Frontend, and Mobile apps.<br>
+    Currently focusing on <b>Multimodal Deep Learning</b> research at Hanyang Univ.
+  </p>
 
-## Hi 👋 I'm siyoon.
-Passionate software engineer specializing in web/application development, I excel in continuous learning and effective problem-solving. 
-With a strong focus on honing my skills, I derive satisfaction from both personal and professional growth. Beyond my expertise in software engineering, I demonstrate a genuine interest in network engineering, recognizing its importance in the broader tech landscape. 
-Always open to constructive feedback, I am committed to mastering my craft and delivering excellence in my work.
-<br/>
-<br/>
-<br/>
-<br/>
+  <br>
 
+  <p>
+    🎧 <b>Music Digger</b> &nbsp;|&nbsp; 
+    🐈 <b>Cat Lover</b> &nbsp;|&nbsp; 
+    🧠 <b>AI Enthusiast</b>
+  </p>
+</div>
+
+<br>
 
 ## ✉️ &nbsp;Get in Touch
 <div>
@@ -35,7 +44,8 @@ Always open to constructive feedback, I am committed to mastering my craft and d
 <br/>
 
 
-## 🚀 &nbsp;Skills I Have Used and Learned
+## 🛠 &nbsp; Technology Stack
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="nestjs" width="75" height="75"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg"  alt="nestjs" width="75" height="75"/>

@@ -22,7 +22,7 @@
 ## ✉️ &nbsp;Get in Touch
 <div>
   <span>
-    <a href="https://velog.io/@ksyoon0718/posts">
+    <a href="https://siyooonkim.github.io/">
       <img src="https://img.shields.io/badge/Blog-9c27b0?style=plastic&logo=velog&logoColor=white"/>
     </a>
   </span>

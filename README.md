@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:24243e&height=140&section=header&text=Siyoon%20(Sean)&fontSize=40&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:24243e&height=140&section=header" width="100%"/>
 
 
 <div align="center">
 
-### 👋 Hi, I'm Siyoon (Sean)
+### 👋 Hi, I'm Siyoon 
 
 I try to understand the real problem behind the system  
 and build something that actually works in production.
